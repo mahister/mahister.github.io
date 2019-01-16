@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mahister.prime",
+    "sha256_cert_fingerprints":
+    ["68:0A:C4:F7:55:05:B6:F9:3E:DF:8E:64:6B:92:FB:AD:45:16:AA:F4:87:8F:D5:15:B6:0F:4E:22:15:A0:0B:EF"]
+  }
+}]
