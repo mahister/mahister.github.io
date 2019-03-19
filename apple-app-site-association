@@ -4,11 +4,11 @@
         "details": [
             {
                 "appID": "6Z643RMUNU.com.mahister.app",
-                "paths": [ "/offer/*"]
+                "paths": [ "/offer", "/offer/*"]
             },	
             {	
                 "appID": "NY65H8AD6Z.com.mahister.app",	
-                "paths": [ "/offer/*"]
+                "paths": [ "/offer", "/offer/*"]
             }
         ]
     }
