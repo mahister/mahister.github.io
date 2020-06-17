@@ -23,7 +23,9 @@
 
         // iOS detection from: http://stackoverflow.com/a/9039885/177710
         if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-          window.open("https://apps.apple.com/it/app/mahister/id1444216127");
+          window.location.replace(
+            "itms-apps://itunes.apple.com/it/app/mahister/id1444216127?mt=8"
+          );
         }
       });
     </script>
